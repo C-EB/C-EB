@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Charif EL BELGHITI <br>
+
+Charif EL BELGHITI
 Data Scientist | Data Analyst | Data Engineer
 
  <!-- Replace with your own banner image URL -->
