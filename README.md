@@ -34,8 +34,6 @@ No titles. No hype. Just curiosity, code, and growth in progress.
 
 ---
 
-### 🔑 Personal Rule
-
 > “Do the work. Push the code. That’s it.”
 
 ---
