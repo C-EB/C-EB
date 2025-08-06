@@ -16,6 +16,4 @@ I use GitHub as a space to document and showcase my learning journey — from da
 💬 Always learning, always building.
 
 Feel free to check out my repos and see how I’m growing through code.
-<!--
 ![Charif's GitHub stats](https://github-readme-stats.vercel.app/api?username=C-EB&show_icons=true&theme=dracula)
--->
