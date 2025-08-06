@@ -1,58 +1,45 @@
-<h1 align="center">Hi there, I'm Charif 👋</h1>
+<h1 align="center">Hey, I'm Charif 👋</h1>
 
 <p align="center">
-  🚀 Self-taught tech explorer · 💡 Problem solver · 🇲🇦 Based in Morocco  
+  🧠 Self-taught · 💻 Tech explorer · 🇲🇦 From Morocco
 </p>
 
 ---
 
-### 🧭 About Me
+### 🧾 About Me
 
-I'm not a data analyst. Not a web developer. Not a software engineer — **yet**.  
-But I am:
+I’m not trying to change the world.  
+I’m just learning things, building stuff, and sharing it here.
 
-- 🧠 A curious mind that never stops learning  
-- 🔧 A builder who turns ideas into working code  
-- 🎯 A realist documenting my journey in public  
-- 💻 A passionate self-learner using GitHub as my portfolio
-
-I don't have a title.  
-But I have code. Projects. Proof of work.  
-This is where I show what I'm capable of — not through resumes, but through repositories.
+GitHub is where I document what I’m doing — whether it’s web scraping, automating something, writing scripts, or testing out tech I find interesting.  
+No fancy titles. No big talk. Just code, curiosity, and progress.
 
 ---
 
-### 💼 What You'll Find in My Repos
+### 🧰 What You'll Find Here
 
-- 🕸️ Web scraping projects using `Selenium`, `BeautifulSoup`, `Requests`
-- ⚙️ Automation tools to save time and do more with less
-- 📦 Real-world scripts, data flows, and experiments
-- 🛠️ Clean code, constant improvement, and honest documentation
-
----
-
-### 📌 Motto
-
-> “No job title. No excuses. Just skills in progress.”
+- Web scraping with `Selenium`, `BeautifulSoup`, `Requests`  
+- Scripts and tools I build to practice or solve personal needs  
+- Projects that reflect real learning — trial, error, and growth  
+- Clean code (or messy code I'm working on cleaning)
 
 ---
 
-### 📊 Currently Exploring
+### 🧭 What I’m Currently Exploring
 
-- 🐍 Python scripting  
-- 🌐 APIs and data pipelines  
-- 🔍 Open-source web automation  
-- 🧪 Building project-based proof of work
+- Python scripting and automation  
+- APIs and data pipelines  
+- Web automation and dynamic scraping  
+- Anything that seems interesting enough to try
 
 ---
 
-### 🌍 Let's Connect
+### 🔑 Personal Rule
 
-I'm always open to feedback, collaboration, or conversation.  
-📫 [Reach me via GitHub issues or discussions](https://github.com/CharifElBelghiti)
+> “Do the work. Push the code. That’s it.”
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Learning+by+building.;Documenting+my+growth.;Exploring+tech+without+labels." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Not+a+title.;Not+a+brand.;Just+a+guy+who+codes." alt="Typing SVG" />
 </p>
