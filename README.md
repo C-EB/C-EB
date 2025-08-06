@@ -8,29 +8,29 @@
 
 ### 🧾 About Me
 
-I’m not trying to change the world.  
-I’m just learning things, building stuff, and sharing it here.
+Not trying to solve any problem by coding.  
+Just learning things, building stuff, and sharing it here.
 
-GitHub is where I document what I’m doing — whether it’s web scraping, automating something, writing scripts, or testing out tech I find interesting.  
-No fancy titles. No big talk. Just code, curiosity, and progress.
+GitHub is where I document what I’m doing — whether it’s web scraping, automation, scripting, or exploring random tech.  
+No titles. No hype. Just curiosity, code, and growth in progress.
 
 ---
 
 ### 🧰 What You'll Find Here
 
-- Web scraping with `Selenium`, `BeautifulSoup`, `Requests`  
-- Scripts and tools I build to practice or solve personal needs  
-- Projects that reflect real learning — trial, error, and growth  
-- Clean code (or messy code I'm working on cleaning)
+- Web scraping with `Selenium`, `BeautifulSoup`, and `Requests`  
+- Python scripts and automation tools I build for myself  
+- Projects that show what I’m learning and experimenting with  
+- A mix of clean code and messy drafts (that I sometimes clean up)
 
 ---
 
 ### 🧭 What I’m Currently Exploring
 
-- Python scripting and automation  
-- APIs and data pipelines  
-- Web automation and dynamic scraping  
-- Anything that seems interesting enough to try
+- Python scripting  
+- APIs and data handling  
+- Web automation  
+- Whatever catches my interest next
 
 ---
 
