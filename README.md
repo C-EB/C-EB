@@ -8,7 +8,6 @@
 
 ### 🧾 About Me
 
-Not trying to solve any problem by coding.  
 Just learning things, building stuff, and sharing it here.
 
 GitHub is where I document what I’m doing — whether it’s web scraping, automation, scripting, or exploring random tech.  
