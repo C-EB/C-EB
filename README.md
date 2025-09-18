@@ -92,7 +92,7 @@ I'm a passionate **Python Developer** specializing in **web scraping, automation
 ### 🎯 Telegram Job Alert Scraper Bot
 **A production-ready bot that monitors job postings and sends real-time alerts**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C-EB&repo=telegram-job-scraper&theme=tokyonight)](https://github.com/C-EB/telegram-job-scraper)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C-EB&repo=job-alert-bot&theme=tokyonight)](https://github.com/C-EB/job-alert-bot)
 
 🔹 **Tech Stack:** Python, Selenium, Telegram Bot API, BeautifulSoup  
 🔹 **Features:** Automated job monitoring, real-time alerts, scalable architecture  
