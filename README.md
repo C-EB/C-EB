@@ -103,7 +103,7 @@ I'm a passionate **Python Developer** specializing in **web scraping, automation
 ### 🌐 Advanced Web Scraping Framework
 **Modular, scalable web scraping solution with anti-detection**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C-EB&repo=web-scraping-framework&theme=tokyonight)](https://github.com/C-EB/web-scraping-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=C-EB&repo=web-scraping-framework&theme=tokyonight)](https://github.com/C-EB/google_maps_business_scraper)
 
 🔹 **Tech Stack:** Python, Selenium, undetected-chromedriver  
 🔹 **Features:** Anti-detection, proxy rotation, data validation  
