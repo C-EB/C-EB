@@ -141,7 +141,7 @@ I'm a **Python developer** specializing in **web scraping, automation, and bot d
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-EBe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-EB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-EB&layout=compact&langs_count=8&theme=tokyonight"/>
   
 </div>
@@ -155,7 +155,7 @@ I'm a **Python developer** specializing in **web scraping, automation, and bot d
 ### 🏆 GitHub Trophies
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=C-EB&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -166,6 +166,17 @@ I'm a **Python developer** specializing in **web scraping, automation, and bot d
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=C-EB&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+
+</div>
 
 ### 💼 Available for:
 - **Freelance projects** - Web scraping & automation solutions
@@ -180,6 +191,7 @@ I'm a **Python developer** specializing in **web scraping, automation, and bot d
 ### ⚡ Quick Stats
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=C-EB.C-EB)
+[![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)](https://wakatime.com/@your-wakatime-id)
 
 **"Building the future, one automated solution at a time"** 🚀
 
