@@ -58,6 +58,7 @@ I'm a passionate **Python Developer** specializing in **web scraping, automation
 
 ## 💼 Core Expertise
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -82,6 +83,7 @@ I'm a passionate **Python Developer** specializing in **web scraping, automation
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
