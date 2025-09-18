@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm CharifE.
+# Hi there! 👋 I'm Charif
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Python+Developer+%F0%9F%90%8D;Web+Scraping+Expert+%F0%9F%95%B7%EF%B8%8F;Automation+Specialist+%F0%9F%A4%96;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
